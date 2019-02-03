@@ -5,7 +5,7 @@ permalink: /serif/
 theme: serif
  
 slides:
- - title: Slide 12
+ - title: Slide 1
    slide-data: This is first slide
  
      
